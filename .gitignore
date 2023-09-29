@@ -1,0 +1,17 @@
+plugin
+spell
+ftplugin
+syntax
+coc-settings.json
+.luarc.json
+lazy-lock.json
+after
+
+# just a another config
+lua/custom.*
+
+# NOTE:
+# What a new folder .github 
+# Maybe this is new struction for github
+# with README.md inside thú vị nha
+# .github
